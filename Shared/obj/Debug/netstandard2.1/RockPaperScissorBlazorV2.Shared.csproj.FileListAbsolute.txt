@@ -1,0 +1,9 @@
+E:\Blazor\RockPaperScissorBlazorV2\Shared\bin\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.deps.json
+E:\Blazor\RockPaperScissorBlazorV2\Shared\bin\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.dll
+E:\Blazor\RockPaperScissorBlazorV2\Shared\bin\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.pdb
+E:\Blazor\RockPaperScissorBlazorV2\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.csprojAssemblyReference.cache
+E:\Blazor\RockPaperScissorBlazorV2\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.AssemblyInfoInputs.cache
+E:\Blazor\RockPaperScissorBlazorV2\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.AssemblyInfo.cs
+E:\Blazor\RockPaperScissorBlazorV2\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.csproj.CoreCompileInputs.cache
+E:\Blazor\RockPaperScissorBlazorV2\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.dll
+E:\Blazor\RockPaperScissorBlazorV2\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.pdb
