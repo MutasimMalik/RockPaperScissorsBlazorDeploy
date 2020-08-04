@@ -25,14 +25,14 @@
 @code{
     List<Hand> hands = new List<Hand>()
     {
-        new Hand{Selection = OptionRPS.Paper, LosesAgainst = OptionRPS.Kachi,
+        new Hand{Selection = OptionRPS.Paper, LosesAgainst = OptionRPS.scissors,
             WinsAgainst = OptionRPS.Rock, Image = "paper.png"},
 
         new Hand{Selection = OptionRPS.Rock, LosesAgainst = OptionRPS.Paper,
-            WinsAgainst = OptionRPS.Kachi, Image = "rock.png"},
+            WinsAgainst = OptionRPS.scissors, Image = "rock.png"},
 
-        new Hand{Selection = OptionRPS.Kachi, LosesAgainst=OptionRPS.Rock,
-            WinsAgainst = OptionRPS.Paper, Image = "Kachi.png"}
+        new Hand{Selection = OptionRPS.scissors, LosesAgainst=OptionRPS.Rock,
+            WinsAgainst = OptionRPS.Paper, Image = "scissors.png"}
     };
 
         Timer timer;

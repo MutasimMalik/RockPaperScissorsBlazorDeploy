@@ -61,8 +61,8 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-2uYgP1T2u2iSFqrp0ZmzKP5PY1TRqJzCbbn8MoDGgs4=",
-      "url": "kachi.png"
+      "hash": "sha256-U98vRmXnlGKTwWBqe9J7jRuqojY9FIt65rUxOLKjPHc=",
+      "url": "Kachi.png"
     },
     {
       "hash": "sha256-Sqdkh6FksevdZ03elcpYTj0FYlL5CoxUYFRC1cbLjN8=",
@@ -77,7 +77,11 @@
       "url": "rock.png"
     },
     {
-      "hash": "sha256-tDbKbp4gXuGG\/rERbT+IOWb30pUsNmoqkxIgAvoZxDw=",
+      "hash": "sha256-uTMC8EApNX+dUuKh1xEm8PFsYWAjzWgLIsjEeEr\/KfY=",
+      "url": "scissors.png"
+    },
+    {
+      "hash": "sha256-yY46kC2oDUYybSQzQ\/fmXqhPrW4OAP9EeFIZV4R9JLM=",
       "url": "_framework\/_bin\/RockPaperScissorBlazorV2.Client.dll"
     },
     {
@@ -289,7 +293,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-SgvX7zlRrNFTS4uqfa2iFl9ZFyRLmtKcl2PFObmDka8=",
+      "hash": "sha256-XTP649gaee+w6DR1v4DwUWODNoK7+yWMnI74Vk+EiSI=",
       "url": "_framework\/_bin\/RockPaperScissorBlazorV2.Client.pdb"
     },
     {
@@ -313,7 +317,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-kNq42mGyggSGcHAjZes7nJ5diCDt+RoQ9UabxLH+ugM=",
+      "hash": "sha256-hQgxSJdz+hAiQmxB8uPJcX46XHbjr3dEBkxBaYCoEzQ=",
       "url": "_framework\/blazor.boot.json"
     }
   ],

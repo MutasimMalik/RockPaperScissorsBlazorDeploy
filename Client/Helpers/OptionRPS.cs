@@ -7,6 +7,6 @@ namespace RockPaperScissorBlazorV2.Client.Helpers
 {
     public enum OptionRPS
     {
-        Rock, Paper, Kachi
+        Rock, Paper, scissors
     }
 }

@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "RockPaperScissorBlazorV2.Client.dll": "sha256-tDbKbp4gXuGG\/rERbT+IOWb30pUsNmoqkxIgAvoZxDw=",
+      "RockPaperScissorBlazorV2.Client.dll": "sha256-yY46kC2oDUYybSQzQ\/fmXqhPrW4OAP9EeFIZV4R9JLM=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -61,7 +61,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-dwm+rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs="
     },
     "pdb": {
-      "RockPaperScissorBlazorV2.Client.pdb": "sha256-SgvX7zlRrNFTS4uqfa2iFl9ZFyRLmtKcl2PFObmDka8=",
+      "RockPaperScissorBlazorV2.Client.pdb": "sha256-XTP649gaee+w6DR1v4DwUWODNoK7+yWMnI74Vk+EiSI=",
       "RockPaperScissorBlazorV2.Shared.pdb": "sha256-YNN4opkNmvSHc+Blr1EjKVzM0KIBEMCQJGGTCFyVpqY="
     },
     "runtime": {

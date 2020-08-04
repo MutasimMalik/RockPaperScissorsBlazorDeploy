@@ -10,9 +10,9 @@ E:\Blazor\RockPaperScissorBlazorV2\Shared\obj\Debug\netstandard2.1\RockPaperScis
 E:\Blazor\RockPaperScissorsBlazorDeploy\Shared\bin\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.deps.json
 E:\Blazor\RockPaperScissorsBlazorDeploy\Shared\bin\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.dll
 E:\Blazor\RockPaperScissorsBlazorDeploy\Shared\bin\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.pdb
-E:\Blazor\RockPaperScissorsBlazorDeploy\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.csprojAssemblyReference.cache
 E:\Blazor\RockPaperScissorsBlazorDeploy\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.AssemblyInfoInputs.cache
 E:\Blazor\RockPaperScissorsBlazorDeploy\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.AssemblyInfo.cs
 E:\Blazor\RockPaperScissorsBlazorDeploy\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.csproj.CoreCompileInputs.cache
 E:\Blazor\RockPaperScissorsBlazorDeploy\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.dll
 E:\Blazor\RockPaperScissorsBlazorDeploy\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.pdb
+E:\Blazor\RockPaperScissorsBlazorDeploy\Shared\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Shared.csprojAssemblyReference.cache

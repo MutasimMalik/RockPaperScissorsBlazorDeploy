@@ -101,6 +101,7 @@ E:\Blazor\RockPaperScissorBlazorV2\Server\obj\Debug\netcoreapp3.1\RockPaperSciss
 E:\Blazor\RockPaperScissorBlazorV2\Server\obj\Debug\netcoreapp3.1\RockPaperScissorBlazorV2.Server.pdb
 E:\Blazor\RockPaperScissorBlazorV2\Server\obj\Debug\netcoreapp3.1\RockPaperScissorBlazorV2.Server.genruntimeconfig.cache
 E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\RockPaperScissorBlazorV2.Client.StaticWebAssets.xml
 E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\appsettings.json
 E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -142,7 +143,6 @@ E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\BlazorDeb
 E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
 E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\RockPaperScissorBlazorV2.Client.StaticWebAssets.xml
 E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\RockPaperScissorBlazorV2.Server.StaticWebAssets.xml
 E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\RockPaperScissorBlazorV2.Server.exe
 E:\Blazor\RockPaperScissorsBlazorDeploy\Server\bin\Debug\netcoreapp3.1\RockPaperScissorBlazorV2.Server.deps.json
