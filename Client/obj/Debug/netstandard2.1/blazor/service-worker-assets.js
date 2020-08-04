@@ -61,6 +61,10 @@
       "url": "index.html"
     },
     {
+      "hash": "sha256-8X99CF+gdXZSyWMwUHRi69ES4bsyNpI6uVLuuouR6Uw=",
+      "url": "kachi.png"
+    },
+    {
       "hash": "sha256-Sqdkh6FksevdZ03elcpYTj0FYlL5CoxUYFRC1cbLjN8=",
       "url": "manifest.json"
     },
@@ -69,15 +73,11 @@
       "url": "paper.png"
     },
     {
-      "hash": "sha256-GQivrIMFiPuPZP0EDOxtzMWQy1Wm8SnyUZfTZY\/85hk=",
+      "hash": "sha256-oP3FtXob8r90Asl+3k3gomuHgRt5LZLAdyueOVAEimk=",
       "url": "rock.png"
     },
     {
-      "hash": "sha256-qgSabNAoH9\/7c6OE58Yqf4Zs4CXlbWugvMnmiVOt4V8=",
-      "url": "scissors.png"
-    },
-    {
-      "hash": "sha256-CYQcOc4KF+faGFh2RisxSWWC3F9ihr0pQ\/ptjTpstNQ=",
+      "hash": "sha256-tDbKbp4gXuGG\/rERbT+IOWb30pUsNmoqkxIgAvoZxDw=",
       "url": "_framework\/_bin\/RockPaperScissorBlazorV2.Client.dll"
     },
     {
@@ -229,7 +229,7 @@
       "url": "_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-iPv\/x\/sxzJtHO4vAFNwm\/\/SvMHh5ALofbHaU8eFI0z4=",
+      "hash": "sha256-q\/SOdp4AdGyP6t5wk1SRp8sqIEZO3\/OEFFpBUUlJXbo=",
       "url": "_framework\/_bin\/RockPaperScissorBlazorV2.Shared.dll"
     },
     {
@@ -289,11 +289,11 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-dSvOhI+4Zh333DAXgLvyvNZFM45TBSK\/s8\/TravJeKM=",
+      "hash": "sha256-SgvX7zlRrNFTS4uqfa2iFl9ZFyRLmtKcl2PFObmDka8=",
       "url": "_framework\/_bin\/RockPaperScissorBlazorV2.Client.pdb"
     },
     {
-      "hash": "sha256-FZnd6\/B6gYMVoE7FOEGeJI7NQnRvVKlSeE9tpUkJYSM=",
+      "hash": "sha256-YNN4opkNmvSHc+Blr1EjKVzM0KIBEMCQJGGTCFyVpqY=",
       "url": "_framework\/_bin\/RockPaperScissorBlazorV2.Shared.pdb"
     },
     {
@@ -313,7 +313,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-7tADWaysZ44ZRVrHQAGe\/Jh31lgtuFUJrtRb4XHAhHY=",
+      "hash": "sha256-kNq42mGyggSGcHAjZes7nJ5diCDt+RoQ9UabxLH+ugM=",
       "url": "_framework\/blazor.boot.json"
     }
   ],

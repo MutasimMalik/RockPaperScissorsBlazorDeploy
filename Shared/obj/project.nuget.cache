@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TrBHsUsJVtsABm6S+kgGaTHIYdkPBNiGw+HnqJGn5Ysq4ffoXng3pj5oVjXhymALj/1LAblXQE7m+Ha9p8nRwg==",
+  "dgSpecHash": "LddscE0f1k5EaQYp/1nH8P9olyf6PJV0kvsGuAQFKH88SOzX6nn9uv3qi8StQ4ulTTlG0qD4zoHFvd7OBBKjfA==",
   "success": true,
-  "projectFilePath": "E:\\Blazor\\RockPaperScissorBlazorV2\\Shared\\RockPaperScissorBlazorV2.Shared.csproj",
+  "projectFilePath": "E:\\Blazor\\RockPaperScissorsBlazorDeploy\\Shared\\RockPaperScissorBlazorV2.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

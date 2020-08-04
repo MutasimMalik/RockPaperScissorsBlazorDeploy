@@ -842,25 +842,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Malik21\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Confusing21\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Blazor\\RockPaperScissorBlazorV2\\Server\\RockPaperScissorBlazorV2.Server.csproj",
+      "projectUniqueName": "E:\\Blazor\\RockPaperScissorsBlazorDeploy\\Server\\RockPaperScissorBlazorV2.Server.csproj",
       "projectName": "RockPaperScissorBlazorV2.Server",
-      "projectPath": "E:\\Blazor\\RockPaperScissorBlazorV2\\Server\\RockPaperScissorBlazorV2.Server.csproj",
-      "packagesPath": "C:\\Users\\Malik21\\.nuget\\packages\\",
-      "outputPath": "E:\\Blazor\\RockPaperScissorBlazorV2\\Server\\obj\\",
+      "projectPath": "E:\\Blazor\\RockPaperScissorsBlazorDeploy\\Server\\RockPaperScissorBlazorV2.Server.csproj",
+      "packagesPath": "C:\\Users\\Confusing21\\.nuget\\packages\\",
+      "outputPath": "E:\\Blazor\\RockPaperScissorsBlazorDeploy\\Server\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Malik21\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Confusing21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -872,11 +867,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Blazor\\RockPaperScissorBlazorV2\\Client\\RockPaperScissorBlazorV2.Client.csproj": {
-              "projectPath": "E:\\Blazor\\RockPaperScissorBlazorV2\\Client\\RockPaperScissorBlazorV2.Client.csproj"
+            "E:\\Blazor\\RockPaperScissorsBlazorDeploy\\Client\\RockPaperScissorBlazorV2.Client.csproj": {
+              "projectPath": "E:\\Blazor\\RockPaperScissorsBlazorDeploy\\Client\\RockPaperScissorBlazorV2.Client.csproj"
             },
-            "E:\\Blazor\\RockPaperScissorBlazorV2\\Shared\\RockPaperScissorBlazorV2.Shared.csproj": {
-              "projectPath": "E:\\Blazor\\RockPaperScissorBlazorV2\\Shared\\RockPaperScissorBlazorV2.Shared.csproj"
+            "E:\\Blazor\\RockPaperScissorsBlazorDeploy\\Shared\\RockPaperScissorBlazorV2.Shared.csproj": {
+              "projectPath": "E:\\Blazor\\RockPaperScissorsBlazorDeploy\\Shared\\RockPaperScissorBlazorV2.Shared.csproj"
             }
           }
         }
@@ -913,7 +908,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
