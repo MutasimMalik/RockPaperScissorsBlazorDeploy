@@ -61,7 +61,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-8X99CF+gdXZSyWMwUHRi69ES4bsyNpI6uVLuuouR6Uw=",
+      "hash": "sha256-2uYgP1T2u2iSFqrp0ZmzKP5PY1TRqJzCbbn8MoDGgs4=",
       "url": "kachi.png"
     },
     {

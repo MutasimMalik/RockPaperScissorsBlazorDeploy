@@ -301,7 +301,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pCXY4HC_DTRB8fWRIvt8uKFfuRnjozuS9yw6LvTFh9A=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\5Oc6_SEhRJ2KXmZRlxe0nh9FlABLJb5WVulAPiJvLSA=.hash",
       "Source": "E:\\Blazor\\RockPaperScissorsBlazorDeploy\\Client\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.gz"
     }

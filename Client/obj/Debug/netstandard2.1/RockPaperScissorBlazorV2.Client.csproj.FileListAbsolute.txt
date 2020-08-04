@@ -567,7 +567,6 @@ E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\Razor\_I
 E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Client.RazorTargetAssemblyInfo.cache
 E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\RockPaperScissorBlazorV2.Client.csproj.CopyComplete
 E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\integrity\wpsOWgHDSQTuIWmjdvTHTLh9GNpEgigws9x9Idh9cf8=.hash
 E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\integrity\tDbKbp4gXuGG-rERbT_IOWb30pUsNmoqkxIgAvoZxDw=.hash
 E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
@@ -758,3 +757,4 @@ E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\RockPape
 E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\blazor\serviceworkers\wwwroot\service-worker.js
 E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
 E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\integrity\pCXY4HC_DTRB8fWRIvt8uKFfuRnjozuS9yw6LvTFh9A=.hash
+E:\Blazor\RockPaperScissorsBlazorDeploy\Client\obj\Debug\netstandard2.1\integrity\5Oc6_SEhRJ2KXmZRlxe0nh9FlABLJb5WVulAPiJvLSA=.hash
